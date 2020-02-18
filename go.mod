@@ -1,4 +1,4 @@
-module config
+module manage
 
 go 1.13
 
